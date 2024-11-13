@@ -1,14 +1,14 @@
 # ARVIVET System Documentation
 
-In this README.md you will find the evidences, prototypes, and the Software Requirements document for the ARVIVET system, all located within the repository files.
+This Repository contains the resources used in the creation of the software requirements specification for the first project of the subject Software Engineering 1. This resources include  prototypes for the app, evidences of the testing fase with the low fidelity prototype and other resourses used in the elaboration of this project.
 
 ## Content
 
-- **Problem Statement**
-- **Importance of the App**
-- **Evidence of Lifting the Requirements**
-- **Mobile App Prototype**
-- **Web App Prototype**
+- [Problem Statement](#problem-statement)
+- [Importance of the App](#importance-of-the-app)
+- [Evidence of Lifting the Requirements](./Evidence/)
+- [Mobile App Prototype](./mobilePrototypeImgs/)
+- [Web App Prototype](./webPrototypeimgs/)
 
 ---
 
