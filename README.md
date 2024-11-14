@@ -6,9 +6,9 @@ This Repository contains the resources used in the creation of the software requ
 
 - [Problem Statement](#problem-statement)
 - [Importance of the App](#importance-of-the-app)
-- [Evidence of Lifting the Requirements](./Evidence/)
+- [Evidence of Lifting the Requirements](./Proyecto_imagenes/Secciones/Validaciones)
 - [Mobile App Prototype](./Proyecto_imagenes/Secciones/Mobile)
-- [Web App Prototype](./webPrototypeimgs/)
+- [Web App Prototype](./Proyecto_imagenes/Secciones/Web)
 
 ---
 
