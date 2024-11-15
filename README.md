@@ -22,7 +22,7 @@ At "ARVIVET", a veterinary center with two branches in Guayaquil, the manual pro
 The proposed application is crucial because it will transform how veterinary services are managed at "ARVIVET". By digitizing appointment management, automating notifications, and centralizing medical records, the app will enable smoother, more efficient interaction between the clinic and its clients. This is especially important in a fast-paced environment where time management and effective communication are key to delivering high-quality care. The app ensures that clients have an easy and accessible way to interact with the veterinary staff, helping reduce errors, minimize delays, and improve overall customer experience.
 
 ## Acceptance Letter
-![Acceptance certificate](./Image_validations_screens/Validations/Acceptance-certificate.png)
+![Acceptance certificate](./Image_validations_screens/Validations/Acceptance_certificate.png)
 
 ## Group Members
 - Noelia Alejandra Saltos Hernandez
