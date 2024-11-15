@@ -7,8 +7,8 @@ This Repository contains the resources used in the creation of the software requ
 - [Problem Statement](#problem-statement)
 - [Importance of the App](#importance-of-the-app)
 - [Evidence of Lifting the Requirements](./Image_validations_screens/Validations)
-- [Mobile App Prototype](./Proyecto_imagenes/Screens/Mobile)
-- [Web App Prototype](./Proyecto_imagenes/Screens/Web)
+- [Mobile App Prototype](./Image_validations_screens/Screens/Mobile)
+- [Web App Prototype](./Image_validations_screens/Screens/Web)
 - [Acceptance Letter](#Acceptance-Letter)
 
 ---
