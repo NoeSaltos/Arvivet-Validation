@@ -6,9 +6,10 @@ This Repository contains the resources used in the creation of the software requ
 
 - [Problem Statement](#problem-statement)
 - [Importance of the App](#importance-of-the-app)
-- [Evidence of Lifting the Requirements](./Proyecto_imagenes/Secciones/Validaciones)
-- [Mobile App Prototype](./Proyecto_imagenes/Secciones/Mobile)
-- [Web App Prototype](./Proyecto_imagenes/Secciones/Web)
+- [Evidence of Lifting the Requirements](./Image_validations_screens/Validations)
+- [Mobile App Prototype](./Proyecto_imagenes/Screens/Mobile)
+- [Web App Prototype](./Proyecto_imagenes/Screens/Web)
+- [Acceptance Letter](#Acceptance-Letter)
 
 ---
 
@@ -21,7 +22,7 @@ At "ARVIVET", a veterinary center with two branches in Guayaquil, the manual pro
 The proposed application is crucial because it will transform how veterinary services are managed at "ARVIVET". By digitizing appointment management, automating notifications, and centralizing medical records, the app will enable smoother, more efficient interaction between the clinic and its clients. This is especially important in a fast-paced environment where time management and effective communication are key to delivering high-quality care. The app ensures that clients have an easy and accessible way to interact with the veterinary staff, helping reduce errors, minimize delays, and improve overall customer experience.
 
 ## Acceptance Letter
-![Acceptan certificate](./Proyecto_imagenes/Secciones/Validaciones/Acceptance%20certificate.png)
+![Acceptan certificate](./Image_validations_screens/Validations/Acceptance certificate.png)
 
 ## Group Members
 - Noelia Alejandra Saltos Hernandez
